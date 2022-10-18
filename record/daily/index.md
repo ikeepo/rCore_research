@@ -12,9 +12,9 @@
 
 ##### 知识点
 
-[Rustlings](daily/20221018/Understand_Rustling_in_Rust.md)
+[Rustlings](20221018/Understand_Rustling_in_Rust.md)
 
-[Github Classroom](daily/20221018/Understand_Github_Classroom.md)
+[Github Classroom](20221018/Understand_Github_Classroom.md)
 
 ##### 总结
 

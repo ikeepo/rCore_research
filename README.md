@@ -2,7 +2,7 @@
 
 OS Training Comp 2022 research
 
-## [daily record](record/daily.md)
+## [Daily Record](record/daily/index.md)
 
 
 
