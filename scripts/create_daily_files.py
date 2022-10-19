@@ -19,13 +19,13 @@ def create_md_date(fp):
     mdutils只支持 level 1 之后只能是 level 2
     """
     mdFile = MdUtils(file_name=fp,title=f'Daily Record {dt}')
-    mdFile.new_header(level=5, title='流水', add_table_of_contents="n")
+    mdFile.new_header(level=2, title='流水', add_table_of_contents="n")
     mdFile.new_line("\n")
-    mdFile.new_header(level=5, title='知识点', add_table_of_contents="n")
+    mdFile.new_header(level=2, title='知识点', add_table_of_contents="n")
     mdFile.new_line("\n")
-    mdFile.new_header(level=5, title='总结', add_table_of_contents="n")
+    mdFile.new_header(level=2, title='总结', add_table_of_contents="n")
     mdFile.new_line("\n")
-    mdFile.new_header(level=5, title='下次学习入口', add_table_of_contents="n")
+    mdFile.new_header(level=2, title='下次学习入口', add_table_of_contents="n")
     mdFile.new_line("\n")
     mdFile.create_md_file()
 
