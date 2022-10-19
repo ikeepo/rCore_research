@@ -26,7 +26,11 @@ rm -rf rustlings
 cargo uninstall rustlings
 ```
 
+## rustlings watch not work
 
+在Windows WSL2上，用`rustlings watch`不能自动刷新；
+
+根据[#79](https://github.com/rust-lang/rustlings/issues/417)，as a workaround, rustlings watch will work correctly if you move rustlings into your WSL2 filesystems (like ~ )
 
 ## References
 

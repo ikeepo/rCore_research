@@ -25,6 +25,8 @@ def create_md_date(fp):
     mdFile.new_line("\n")
     mdFile.new_header(level=5, title='总结', add_table_of_contents="n")
     mdFile.new_line("\n")
+    mdFile.new_header(level=5, title='下次学习入口', add_table_of_contents="n")
+    mdFile.new_line("\n")
     mdFile.create_md_file()
 
 
