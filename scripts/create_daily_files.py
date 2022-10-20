@@ -2,7 +2,7 @@
 
 Usage
 -----
-    cd path/to/scripts && python create_daily_files.py
+    cd path/to/rCore_research && python scripts/create_daily_files.py
 """
 import os
 from mdutils.mdutils import MdUtils
