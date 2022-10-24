@@ -12,6 +12,8 @@ OS Training Comp 2022 research
 
 [lab0-0-setup-env-run-os1-iKeepo](https://github.com/LearningOS/lab0-0-setup-env-run-os1-iKeepo) 
 
+[lab0-1-run-os2-iKeepo](https://github.com/LearningOS/lab0-1-run-os2-iKeepo)
+
 [第一阶段安排](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md)
 
 ## 相关软件及常用命令
