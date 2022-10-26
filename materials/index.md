@@ -2,7 +2,7 @@
 
 ## RISC-V
 
-[The RISC-V Reader 中文版](rsic-v/RISC-V-Reader-Chinese-v2p1.pdf)
+[The RISC-V Reader](http://www.riscvbook.com/)    [中文版](rsic-v/RISC-V-Reader-Chinese-v2p1.pdf)
 
 ## OS
 
@@ -15,3 +15,4 @@ Randal E.Bryant / David O'Hallaron: Computer Systems: A Programmer's Perspective
 ## 相关论文
 
 [here](https://github.com/chyyuu/aos_course_info/blob/master/readinglist.md)
+
