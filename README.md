@@ -16,7 +16,7 @@ OS Training Comp 2022 research
 
 [第一阶段安排](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md)
 
-[扩展阅读材料](materials/index.md)
+## [扩展阅读材料](materials/index.md)
 
 ## 相关软件及常用命令
 
