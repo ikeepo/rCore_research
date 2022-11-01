@@ -29,3 +29,12 @@ Introduction to Computing Systems: From Bits & Gates to C & Beyond
 
 [here](https://github.com/chyyuu/aos_course_info/blob/master/readinglist.md)
 
+## 未归档
+
+Designing Data-Intensive Applications; Martin Kleppmann
+
+Linkers and Loaders; John R.Levine
+
+Essential COM; Don Box
+
+Code Optimization: Effective Memory Usage; Kris Kaspersky
