@@ -6,6 +6,10 @@ OS Training Comp 2022 research
 
 ## 训练营资源
 
+[Entry](https://os2edu.cn/)
+
+[2022开源操作系统训练营启动](https://meeting.tencent.com/v2/cloud-record/share?id=00e0e809-1e03-4f41-8e6a-4e71c0ca1342&from=3) 
+
 [2022年开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/) 
 
 [rCore-Tutorial-Book第三版](http://rcore-os.cn/rCore-Tutorial-Book-v3/) 
