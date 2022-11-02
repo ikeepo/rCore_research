@@ -38,3 +38,13 @@ Linkers and Loaders; John R.Levine
 Essential COM; Don Box
 
 Code Optimization: Effective Memory Usage; Kris Kaspersky
+
+## Unikernal
+
+Unikraft: Fast, Specialized Unikernels the Easy Way ([中文翻译](https://github.com/YdrMaster/notebook/blob/main/translation/20220923-unikraft.md))
+
+## RTOS
+
+>   不是一回事，rtos 必须得做点什么保证实时性，比如扩大抢占范围，使用实时调度算法什么的。unikernel 强调由于内核只能运行一个应用程序，而可以做特殊的优化以提高性能和安全性
+>
+>   (我并未理解这段话，先记录标记)
