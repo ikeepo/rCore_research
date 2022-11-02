@@ -2,6 +2,8 @@
 
 OS Training Comp 2022 research
 
+[第一阶段安排: [ 20221101~20221215 ]](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md) 
+
 ## [Daily Record](record/daily/index.md)
 
 ## 训练营资源
@@ -14,11 +16,17 @@ OS Training Comp 2022 research
 
 [rCore-Tutorial-Book第三版](http://rcore-os.cn/rCore-Tutorial-Book-v3/) 
 
+
+
+## 实验仓库
+
+[rustlings-iKeepo](https://github.com/os2edu/rustlings-iKeepo) 
+
 [lab0-0-setup-env-run-os1-iKeepo](https://github.com/LearningOS/lab0-0-setup-env-run-os1-iKeepo) 
 
 [lab0-1-run-os2-iKeepo](https://github.com/LearningOS/lab0-1-run-os2-iKeepo)
 
-[第一阶段安排](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md)
+
 
 ## [扩展阅读材料](materials/index.md)
 
