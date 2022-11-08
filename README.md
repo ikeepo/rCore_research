@@ -16,6 +16,8 @@ OS Training Comp 2022 research
 
 [rCore-Tutorial-Book第三版](http://rcore-os.cn/rCore-Tutorial-Book-v3/) 
 
+AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared-record-info?id=56954563-0845-4200-9c76-0ff671260b88&from=3)
+
 ## 实验仓库
 
 [rustlings-iKeepo](https://github.com/os2edu/rustlings-iKeepo) 
