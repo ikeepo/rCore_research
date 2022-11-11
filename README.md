@@ -16,15 +16,15 @@ OS Training Comp 2022 research
 
 [rCore-Tutorial-Book第三版](http://rcore-os.cn/rCore-Tutorial-Book-v3/) 
 
-AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared-record-info?id=56954563-0845-4200-9c76-0ff671260b88&from=3)
+AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared-record-info?id=56954563-0845-4200-9c76-0ff671260b88&from=3) 
 
 ## 实验仓库
 
 [rustlings-iKeepo](https://github.com/os2edu/rustlings-iKeepo) 
 
-[lab0-0-setup-env-run-os1-iKeepo](https://github.com/LearningOS/lab0-0-setup-env-run-os1-iKeepo) 
+[lab0-0-setup-env-run-os1-iKeepo](https://github.com/LearningOS/lab0-0-setup-env-run-os1-iKeepo) 		[实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter1/0intro.html#id4) 
 
-[lab0-1-run-os2-iKeepo](https://github.com/LearningOS/lab0-1-run-os2-iKeepo) 
+[lab0-1-run-os2-iKeepo](https://github.com/LearningOS/lab0-1-run-os2-iKeepo) 							[实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter2/0intro.html#id3) 
 
 ## [扩展阅读材料](materials/index.md)
 
