@@ -36,3 +36,5 @@ AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared
 
 [make基本用法](record/daily/20221021/Understand_make.md)
 
+[汇编指令查找](record/daily/20221021/Understand_assembly.md)
+
