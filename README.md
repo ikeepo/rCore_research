@@ -18,6 +18,8 @@ OS Training Comp 2022 research
 
 AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared-record-info?id=56954563-0845-4200-9c76-0ff671260b88&from=3) 
 
+[rCore tutorial 实验入门指导](https://blog.ideawand.com/2022/11/18/rcore_tutorial/os-camp-2022-winter-riscv/)(持续更新中)
+
 ## 实验仓库
 
 [rustlings-iKeepo](https://github.com/os2edu/rustlings-iKeepo) 
@@ -36,5 +38,5 @@ AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared
 
 [make基本用法](record/daily/20221021/Understand_make.md)
 
-[汇编指令查找](record/daily/20221021/Understand_assembly.md)
+[汇编指令查找](record/daily/20221120/understand_assembly.md)
 
