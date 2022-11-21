@@ -40,3 +40,8 @@ AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared
 
 [汇编指令查找](record/daily/20221120/understand_assembly.md)
 
+# 其他项目
+
+[第五期"一生一芯"课程主页](https://ysyx.oscc.cc/docs/)；
+
+[软件工程研究入门](https://jyywiki.cn/)；
