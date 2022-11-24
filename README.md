@@ -4,6 +4,8 @@ OS Training Comp 2022 research
 
 [第一阶段安排: [ 20221101~20221215 ]](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md) 
 
+[第一阶段评分](https://learningos.github.io/classroom-grading/) 
+
 ## [Daily Record](record/daily/index.md)
 
 ## 训练营资源
