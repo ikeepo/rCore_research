@@ -15,7 +15,7 @@ Computer Organization and Design: The Hardware/Software Interface (5/e)（The RI
 
 [RISC-V中文社区](https://www.risc-v1.com/RISCV.htm) 
 
-
+[计算机组成与设计：RISC-V【浙江大学】](https://www.bilibili.com/video/BV1tz411z7GN?p=1&vd_source=b9d717895f96b446904b871f41330bb5)
 
 ## OS
 
