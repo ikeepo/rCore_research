@@ -22,6 +22,8 @@ AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared
 
 [rCore tutorial 实验入门指导](https://blog.ideawand.com/2022/11/18/rcore_tutorial/os-camp-2022-winter-riscv/)(持续更新中)
 
+[操作系统的基本原理与简单实现](https://chyyuu.gitbooks.io/simple_os_book/content/zh/cover/cover.html)；
+
 ## 实验仓库
 
 [rustlings-iKeepo](https://github.com/os2edu/rustlings-iKeepo) 
@@ -47,3 +49,5 @@ AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared
 [第五期"一生一芯"课程主页](https://ysyx.oscc.cc/docs/)；
 
 [软件工程研究入门](https://jyywiki.cn/)；
+
+[Linux内核之旅：深入分析LINUX内核源码](http://www.kerneltravel.net/)；
