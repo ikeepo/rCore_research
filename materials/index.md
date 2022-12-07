@@ -1,5 +1,9 @@
 # 学习材料汇总
 
+## Assembly
+
+[Red Hat Enterprise Linux 3](https://web.mit.edu/rhel-doc/3/rhel-as-en-3/), Using as, the GNU Assembler
+
 ## RISC-V
 
 Computer Organization and Design: The Hardware/Software Interface (5/e)（The RISC-V Reader的前置阅读）
@@ -10,6 +14,8 @@ Computer Organization and Design: The Hardware/Software Interface (5/e)（The RI
 [The RISC-V Reader](http://www.riscvbook.com/)
 
 1.  [中文版pdf](RISC-V-Reader-Chinese-v2p1.pdf) 
+
+[riscv-privileged-v1.10](riscv-privileged-v1.10.pdf)
 
 [指令系统应该免费: RISC-V的案例](https://www.risc-v1.com/thread-626-1-1.html) 
 
@@ -40,6 +46,8 @@ Computer Architecture: A Quantitative Approach
 
 1.   [英文版 6ed](A_Computer_architecture,a_quantitative_approach(6ed).pdf) 
 
+[计算机体系结构](https://foxsen.github.io/archbase/)，胡伟武
+
 ## 相关论文
 
 [here](https://github.com/chyyuu/aos_course_info/blob/master/readinglist.md)
@@ -52,7 +60,9 @@ Linkers and Loaders; John R.Levine
 
 Essential COM; Don Box
 
-Code Optimization: Effective Memory Usage; Kris Kaspersky
+Code Optimization: Effective Memory Usage; Kris Kaspersky 
+
+[Linux内核之旅：深入分析LINUX内核源码](http://www.kerneltravel.net/)；
 
 ## Unikernal
 

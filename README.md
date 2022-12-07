@@ -42,7 +42,12 @@ AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared
 
 [make基本用法](record/daily/20221021/Understand_make.md)
 
-[汇编指令查找](record/daily/20221120/understand_assembly.md)
+[汇编指令查找](record/daily/20221120/understand_assembly.md) 
+
+Using as, the GNU Assembler:
+
+- [v2.14.90.0.4](https://web.mit.edu/rhel-doc/3/rhel-as-en-3/index.html)
+- [v2.39](https://sourceware.org/binutils/docs/as/index.html)
 
 # 其他项目
 
@@ -50,4 +55,3 @@ AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared
 
 [软件工程研究入门](https://jyywiki.cn/)；
 
-[Linux内核之旅：深入分析LINUX内核源码](http://www.kerneltravel.net/)；
