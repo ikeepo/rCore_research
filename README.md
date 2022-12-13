@@ -38,6 +38,8 @@ AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared
 
 [lab3-os5-iKeepo](https://github.com/LearningOS/lab3-os5-iKeepo) 									   [实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter5/0intro.html) 
 
+[lab4-os6-iKeepo](https://github.com/LearningOS/lab4-os6-iKeepo) 									   [实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter6/0intro.html) 
+
 ## [扩展阅读材料](materials/index.md)
 
 ## 相关软件及常用命令
