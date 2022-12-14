@@ -6,7 +6,9 @@ OS Training Comp 2022 research
 
 [第一阶段评分](https://learningos.github.io/classroom-grading/) 
 
-## [Daily Record](record/daily/index.md)
+## [Daily Record](record/daily/index.md) 
+
+## [课程总结](summary/summary.md)
 
 ## 训练营资源
 
