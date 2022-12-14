@@ -1,6 +1,3 @@
-
-
-
 # Daily Record
 
 1. [20221018](20221018/20221018.md)
@@ -54,3 +51,5 @@
 49. [20221209](20221209/20221209.md) 抽象接口vs实现策略；地址空间；
 50. [20221210](20221210/20221210.md) 内存分页管理，
 51. [20221213](20221213/20221213.md) 进程，线程，协程，PID，InitialProcess，fork，exit，waitpid, exec, 
+
+52. [20221214](20221214/20221214.md) `stat`，[并发术语](https://learningos.github.io/rust-based-os-comp2022/chapter8/0intro.html#id4)；
