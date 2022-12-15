@@ -8,7 +8,7 @@ OS Training Comp 2022 research
 
 ## [Daily Record](record/daily/index.md) 
 
-## [课程总结](summary/summary.md)
+## [第一阶段课程总结](summary/summary_00.md)
 
 ## 训练营资源
 
