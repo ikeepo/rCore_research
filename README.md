@@ -1,5 +1,5 @@
 # rCore_research
-
+> 第一阶段已结束，当前水平不足以进行第二阶段，因此此项目暂停，改学[OS:DI(NJU2022s)](https://github.com/iKeepo/os_di__nju2022s).
 -   OS Training Comp 2022 research
 
 -   [第一阶段安排: [ 20221101~20221215 ]](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md) 
