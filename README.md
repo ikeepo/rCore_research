@@ -60,4 +60,5 @@
 
 -   [第五期"一生一芯"课程主页](https://ysyx.oscc.cc/docs/)；
 
--   [软件工程研究入门](https://jyywiki.cn/)；
+-   [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)（2022春季学期，NJU）；
+
