@@ -38,8 +38,7 @@ rCore学习笔记，[rCore-Tutorial-Book-v3 3.6.0-alpha.1文档](https://rcore-o
 ### [第八章：并发](./supplementary_materials/ch8.md)
 
 
-
-## 相关软件及常用命令
+## Refs
 - [扩展阅读材料](materials/index.md)
 
 -   [Qemu基本用法](record/daily/20221020/Understand_Qemu.md)
@@ -50,6 +49,5 @@ rCore学习笔记，[rCore-Tutorial-Book-v3 3.6.0-alpha.1文档](https://rcore-o
 
 -   Using as, the GNU Assembler:（[v2.14.90.0.4](https://web.mit.edu/rhel-doc/3/rhel-as-en-3/index.html)， [v2.39](https://sourceware.org/binutils/docs/as/index.html)）
 
-## Refs
 - [参加夏令营期间活动](rCore_course.md)
 
