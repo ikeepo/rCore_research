@@ -1,52 +1,46 @@
-# rCore_research
-> 第一阶段已结束，当前水平不足以进行第二阶段，因此此项目暂停，改学[OS:DI(NJU2022s)](https://github.com/iKeepo/os_di__nju2022s).
--   OS Training Comp 2022 research
+# rCoreParter
+> 第三遍学习, 目标是逐行代码搞懂
+rCore学习笔记，[rCore-Tutorial-Book-v3 3.6.0-alpha.1文档](https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html)补充材料
+## Introduce
+作为自学编程者，面对种类繁杂的知识：数据库、网络、操作系统、CPU、Python、Rust、C...
+困难不在于多、也不在于杂，只困于缺少一条合适的路径将它们串起来。
 
--   [第一阶段安排: [ 20221101~20221215 ]](https://github.com/LearningOS/rust-based-os-comp2022/blob/main/scheduling.md) 
+基于当下的理解，所谓编程语言，不过是一种语法，python|rust|c|java|js|c#，工作中会面临的各类
+问题大都不是编程语言问题，往上是软件工程，向下是操作系统，而我误把编程语言作为关键字研究
+研究多年，总不得其法，知识点越看越多，困惑越搞越大。
 
--   [第一阶段评分](https://learningos.github.io/classroom-grading/) 
+语言是通过语法规范一种调用，被调用的是一种物理功能，此功能由操作系统翻译、抽象、定义。
+## 多写代码是一种错误导向
+向他人请教编程知识时候最易得到的一种谆谆教诲是：多写多练。   
 
-## [Daily Record](record/daily/index.md) 
+但是写多了之后意识到，多写是一个错误的认知导向，多写并不会导致知识的提升。
+多写就是已有知识的重复出现，其获得的新知识需要靠自己总结，这是一种归纳。
 
-## [第一阶段课程总结](summary/summary_00.md)
+归纳作为一种科学研究方法，面对未知领域采用；
 
-## 训练营资源
+而所谓学习，是指学会已经存在的知识，然后运行知识进行推理演绎，尚未到自己去探索的层面。
+对于学习已经存在的东西，需要按照层级进行，所有高阶知识必须通过低阶知识构建而成，因此学习的路线与效率直接挂钩。
 
--   [Entry](https://os2edu.cn/)
+就跟考试做模拟一样，模拟考做多少遍都是没用的，只是重复了自己已经会了东西，不会提升分数，而针对不会的地方多加
+练习才能提升。
 
--   [2022开源操作系统训练营启动](https://meeting.tencent.com/v2/cloud-record/share?id=00e0e809-1e03-4f41-8e6a-4e71c0ca1342&from=3) 
+正确的顺序是操作系统--编译器--编程语言（当下理解）
+因此，再次学习清华大学的rCore课程。
+## rCore-Tutorial-Book [第三版](./supplementary_materials/ch.md)
+### [第零章：操作系统概述](./supplementary_materials/ch0.md)
+### [第一章：应用程序与基本执行环境](./supplementary_materials/ch1.md)
+### [第二章：批处理系统](./supplementary_materials/ch2.md)
+### [第三章：多道程序与分时多任务](./supplementary_materials/ch3.md)
+### [第四章：地址空间](./supplementary_materials/ch4.md)
+### [第五章：进程](./supplementary_materials/ch5.md)
+### [第六章：文件系统](./supplementary_materials/ch6.md)
+### [第七章：进程间通信与 I/O 重定向](./supplementary_materials/ch7.md)
+### [第八章：并发](./supplementary_materials/ch8.md)
 
--   [2022年开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/) 
 
--   [rCore-Tutorial-Book第三版](http://rcore-os.cn/rCore-Tutorial-Book-v3/) 
-
--   AI+Rust辅助CodeGeeX: [20221105](https://meeting.tencent.com/user-center/shared-record-info?id=56954563-0845-4200-9c76-0ff671260b88&from=3) 
-
--   [rCore tutorial 实验入门指导](https://blog.ideawand.com/2022/11/18/rcore_tutorial/os-camp-2022-winter-riscv/)(持续更新中)
-
--   [操作系统的基本原理与简单实现](https://chyyuu.gitbooks.io/simple_os_book/content/zh/cover/cover.html)；
-
-## 实验仓库
-
--   [rustlings-iKeepo](https://github.com/os2edu/rustlings-iKeepo) 
-
--   [lab0-0-setup-env-run-os1-iKeepo](https://github.com/LearningOS/lab0-0-setup-env-run-os1-iKeepo) 		[实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter1/0intro.html#id4) 
-
--   [lab0-1-run-os2-iKeepo](https://github.com/LearningOS/lab0-1-run-os2-iKeepo) 							[实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter2/0intro.html#id3) 
-
--   [lab1-os3-iKeepo](https://github.com/LearningOS/lab1-os3-iKeepo) 									   [实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter3/0intro.html#id3) 
-
--   [lab2-os4-iKeepo](https://github.com/LearningOS/lab2-os4-iKeepo)                                        [实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter4/0intro.html#id3) 
-
--   [lab3-os5-iKeepo](https://github.com/LearningOS/lab3-os5-iKeepo) 									   [实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter5/0intro.html) 
-
--   [lab4-os6-iKeepo](https://github.com/LearningOS/lab4-os6-iKeepo) 									   [实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter6/0intro.html) 
-
--   [lab5-os8-iKeepo](https://github.com/LearningOS/lab5-os8-iKeepo) 				   					[实验设置](https://learningos.github.io/rust-based-os-comp2022/chapter8/0intro.html#id5)
-
-## [扩展阅读材料](materials/index.md)
 
 ## 相关软件及常用命令
+- [扩展阅读材料](materials/index.md)
 
 -   [Qemu基本用法](record/daily/20221020/Understand_Qemu.md)
 
@@ -56,9 +50,6 @@
 
 -   Using as, the GNU Assembler:（[v2.14.90.0.4](https://web.mit.edu/rhel-doc/3/rhel-as-en-3/index.html)， [v2.39](https://sourceware.org/binutils/docs/as/index.html)）
 
-## 其他项目
-
--   [第五期"一生一芯"课程主页](https://ysyx.oscc.cc/docs/)；
-
--   [操作系统：设计与实现](http://jyywiki.cn/OS/2022/)（2022春季学期，NJU）；
+## Refs
+- [参加夏令营期间活动](rCore_course.md)
 
